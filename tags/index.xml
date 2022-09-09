@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data Science Portfolio</title>
-    <link>https://hugo-toha.github.io/tags/</link>
+    <link>https://sofiafoladori.github.io/tags/</link>
     <description>Recent content in Tags on Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://sofiafoladori.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 on Data Science Portfolio</title>
-    <link>https://hugo-toha.github.io/tags/covid-19/</link>
+    <link>https://sofiafoladori.github.io/tags/covid-19/</link>
     <description>Recent content in COVID-19 on Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://sofiafoladori.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>COVID-19 pandemic in Brazil Regression and PCA</title>
-      <link>https://hugo-toha.github.io/posts/covid-regression/</link>
+      <link>https://sofiafoladori.github.io/posts/covid-regression/</link>
       <pubDate>Sat, 08 Jan 2022 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/covid-regression/</guid>
+      <guid>https://sofiafoladori.github.io/posts/covid-regression/</guid>
       <description>This project seeks to understand the COVID-19 pandemic in Brazil. For this, we will do a regression analysis and a PCA to understand the impact of socioeconomic factors on the mortality due to SARS-CoV-2 in the different Brazilian states.
 Objective Understand the relationship between socioeconomic factors and mortality caused by the virus SARS-CoV-2 Define which variables have a bigger impact on mortality Highlight important aspects where public policy should focus Cluster and PCA analysis that shows the different variables and the differences between the Brazilian states Linear regression and obtaining the significant variables in explaining mortality Workflow Data Socioeconomic data - obtained from IBGE IDHM data - obtained from PNUD Brazil COVID-19 deaths from the begging of the pandemic in Brazil until the 31/Dec/2020 - obtained from the national website https://covid.</description>
     </item>
     
     <item>
       <title>Understanding COVID-19 in Brazil</title>
-      <link>https://hugo-toha.github.io/posts/covid-infographic/</link>
+      <link>https://sofiafoladori.github.io/posts/covid-infographic/</link>
       <pubDate>Mon, 01 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/covid-infographic/</guid>
+      <guid>https://sofiafoladori.github.io/posts/covid-infographic/</guid>
       <description>The COVID-19 pandemic has reached all portions of the world, and countries have taken different measures to respond to the threat presented by the virus. The propagation of the virus is related to several issues, including population density, measures taken, number of doctors, and ICU beds.
 Objective This project tried to visualize the COVID-19 cases in Brazil. Specifically, it compared the distribution of COVID-19 cases and mortality, the population density, the number of doctors and ICU beds in the public health care system (SUS), and the restriction measurements taken at the beginning of the pandemic in each state.</description>
     </item>

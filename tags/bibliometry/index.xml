@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bibliometry on Data Science Portfolio</title>
-    <link>https://hugo-toha.github.io/tags/bibliometry/</link>
+    <link>https://sofiafoladori.github.io/tags/bibliometry/</link>
     <description>Recent content in bibliometry on Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/bibliometry/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 01 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://sofiafoladori.github.io/tags/bibliometry/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>How are the science and technology journals authorships distributed?</title>
-      <link>https://hugo-toha.github.io/posts/science-technology/</link>
+      <link>https://sofiafoladori.github.io/posts/science-technology/</link>
       <pubDate>Mon, 01 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/science-technology/</guid>
+      <guid>https://sofiafoladori.github.io/posts/science-technology/</guid>
       <description>Scientific publications are concentrated in developed countries, that have the economic power, the most prestigious universities, and the most diffused scientific journals. The investigation agendas are set up by the central countries, such as the United States and some European countries. Consequently, once these countries define the research topics, these are adopted by satellite groups. In this context, we find Latin America and their academic production
 Objective If we consider the most prestigious journals in Science and technology, from which country are the authors?</description>
     </item>

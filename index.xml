@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio</title>
-    <link>https://hugo-toha.github.io/</link>
+    <link>https://sofiafoladori.github.io/</link>
     <description>Recent content on Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://sofiafoladori.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Bioinformatic analysis of the wheat rhizosphere microbiome</title>
-      <link>https://hugo-toha.github.io/posts/bioinformatics/</link>
+      <link>https://sofiafoladori.github.io/posts/bioinformatics/</link>
       <pubDate>Sat, 08 Jan 2022 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/bioinformatics/</guid>
+      <guid>https://sofiafoladori.github.io/posts/bioinformatics/</guid>
       <description>The health status of the soil is greatly dependent on the microorganism biodiversity due to the several ecosystem functions and soil processes they participate in. The interaction between soil microorganisms and roots is characterized as rhizosphere. Several factors affect the rhizosphere, but even with microbial community change the functions and processes may be maintained due to functional redundancy. Functional traits are morpho-physiophenological characteristics that indirectly impact fitness and a trait-based approach may facilitate predictions regarding the implications of the ecosystem and microbial processes.</description>
     </item>
     
     <item>
       <title>COVID-19 pandemic in Brazil Regression and PCA</title>
-      <link>https://hugo-toha.github.io/posts/covid-regression/</link>
+      <link>https://sofiafoladori.github.io/posts/covid-regression/</link>
       <pubDate>Sat, 08 Jan 2022 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/covid-regression/</guid>
+      <guid>https://sofiafoladori.github.io/posts/covid-regression/</guid>
       <description>This project seeks to understand the COVID-19 pandemic in Brazil. For this, we will do a regression analysis and a PCA to understand the impact of socioeconomic factors on the mortality due to SARS-CoV-2 in the different Brazilian states.
 Objective Understand the relationship between socioeconomic factors and mortality caused by the virus SARS-CoV-2 Define which variables have a bigger impact on mortality Highlight important aspects where public policy should focus Cluster and PCA analysis that shows the different variables and the differences between the Brazilian states Linear regression and obtaining the significant variables in explaining mortality Workflow Data Socioeconomic data - obtained from IBGE IDHM data - obtained from PNUD Brazil COVID-19 deaths from the begging of the pandemic in Brazil until the 31/Dec/2020 - obtained from the national website https://covid.</description>
     </item>
     
     <item>
       <title>The menstrual cycle</title>
-      <link>https://hugo-toha.github.io/posts/menstrual-cycle/</link>
+      <link>https://sofiafoladori.github.io/posts/menstrual-cycle/</link>
       <pubDate>Mon, 13 Dec 2021 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/menstrual-cycle/</guid>
+      <guid>https://sofiafoladori.github.io/posts/menstrual-cycle/</guid>
       <description>Understanding the menstrual cycle is fundamental in comprehending changes in hormones, the menstrual phase, and the ovulation and fertile period. In addition, it is important to understand the differences between the uterus and the ovaries, and what function each has.
 Objective Organize the information about the menstrual cycle regarding the uterus and ovary phase
 Workflow The information regarding the menstrual cycle was systemized in PowerPoint to produce a simple infographic</description>
@@ -38,39 +38,39 @@ Workflow The information regarding the menstrual cycle was systemized in PowerPo
     
     <item>
       <title>Scientific production on the democratization of science a comparison between Web of Science and SciELO</title>
-      <link>https://hugo-toha.github.io/posts/democratization/</link>
+      <link>https://sofiafoladori.github.io/posts/democratization/</link>
       <pubDate>Sat, 02 Oct 2021 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/democratization/</guid>
+      <guid>https://sofiafoladori.github.io/posts/democratization/</guid>
       <description>Scientific publications on the subject of “democratization of science” were examined, showing the temporal and thematic patterns in two databases. Scientific publications, in all areas of knowledge, are concentrated in developed countries, which also hold economic power, the most prestigious universities, and the most widely distributed scientific journals. That translates to databases as well. In this project, we examine the Web of Science database, international and mostly in English, and SciELO, an Ibero-American database, where publications in Spanish and Portuguese are mainly concentrated.</description>
     </item>
     
     <item>
       <title>How are the science and technology journals authorships distributed?</title>
-      <link>https://hugo-toha.github.io/posts/science-technology/</link>
+      <link>https://sofiafoladori.github.io/posts/science-technology/</link>
       <pubDate>Mon, 01 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/science-technology/</guid>
+      <guid>https://sofiafoladori.github.io/posts/science-technology/</guid>
       <description>Scientific publications are concentrated in developed countries, that have the economic power, the most prestigious universities, and the most diffused scientific journals. The investigation agendas are set up by the central countries, such as the United States and some European countries. Consequently, once these countries define the research topics, these are adopted by satellite groups. In this context, we find Latin America and their academic production
 Objective If we consider the most prestigious journals in Science and technology, from which country are the authors?</description>
     </item>
     
     <item>
       <title>Understanding COVID-19 in Brazil</title>
-      <link>https://hugo-toha.github.io/posts/covid-infographic/</link>
+      <link>https://sofiafoladori.github.io/posts/covid-infographic/</link>
       <pubDate>Mon, 01 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/covid-infographic/</guid>
+      <guid>https://sofiafoladori.github.io/posts/covid-infographic/</guid>
       <description>The COVID-19 pandemic has reached all portions of the world, and countries have taken different measures to respond to the threat presented by the virus. The propagation of the virus is related to several issues, including population density, measures taken, number of doctors, and ICU beds.
 Objective This project tried to visualize the COVID-19 cases in Brazil. Specifically, it compared the distribution of COVID-19 cases and mortality, the population density, the number of doctors and ICU beds in the public health care system (SUS), and the restriction measurements taken at the beginning of the pandemic in each state.</description>
     </item>
     
     <item>
       <title>Flooded Area of Brumadinho (Brazil)</title>
-      <link>https://hugo-toha.github.io/posts/brumadinho/</link>
+      <link>https://sofiafoladori.github.io/posts/brumadinho/</link>
       <pubDate>Mon, 06 Apr 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/brumadinho/</guid>
+      <guid>https://sofiafoladori.github.io/posts/brumadinho/</guid>
       <description>A map was done to compare the original flooded area of Brumadinho (Brazil) in 2018 due to the dam and the increase in the flooded extension after the breakage of the barrier in 2019, creating a giant environmental impact.
 Workflow Output References ArcGIS
 USGS satalite images
@@ -80,10 +80,10 @@ Open Street Map</description>
     
     <item>
       <title>Microfibers in clothes</title>
-      <link>https://hugo-toha.github.io/posts/microfibers/</link>
+      <link>https://sofiafoladori.github.io/posts/microfibers/</link>
       <pubDate>Thu, 01 Aug 2019 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/microfibers/</guid>
+      <guid>https://sofiafoladori.github.io/posts/microfibers/</guid>
       <description>Clothes production is big, and the use of synthetic fibers like polyester, acrylic, spandex, and nylon is increasing. These fibers, specifically small pieces in microscale eg. Microfibers, can be released during washing cycles. This process allows the fibers to be transported into oceans, rivers, and lakes, as they cannot be easily filtered. Once in the water, they enter the food chain and consequently come into our plates when we consume fish and seafood.</description>
     </item>
     
@@ -114,19 +114,19 @@ Open Street Map</description>
     
     <item>
       <title>নোট সমূহ</title>
-      <link>https://hugo-toha.github.io/notes/</link>
+      <link>https://sofiafoladori.github.io/notes/</link>
       <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/</guid>
+      <guid>https://sofiafoladori.github.io/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go পরিচিতি</title>
-      <link>https://hugo-toha.github.io/notes/go/basic/introduction/</link>
+      <link>https://sofiafoladori.github.io/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/basic/introduction/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/basic/introduction/</guid>
       <description> Hello World A sample go program is show here.
 package main import &amp;#34;fmt&amp;#34; func main() { message := greetMe(&amp;#34;world&amp;#34;) fmt.Println(message) } func greetMe(name string) string { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34; } Run the program as below:
 $ go run hello.go Variables Normal Declaration:
@@ -136,28 +136,28 @@ msg := &amp;#34;Hello&amp;#34; Constants const Phi = 1.618 </description>
     
     <item>
       <title>Go বেসিক</title>
-      <link>https://hugo-toha.github.io/notes/go/basic/</link>
+      <link>https://sofiafoladori.github.io/notes/go/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/basic/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/basic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>অ্যাডভান্সড</title>
-      <link>https://hugo-toha.github.io/notes/go/advanced/</link>
+      <link>https://sofiafoladori.github.io/notes/go/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/advanced/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/advanced/</guid>
       <description></description>
     </item>
     
     <item>
       <title>বেসিক টাইপ সমূহ</title>
-      <link>https://hugo-toha.github.io/notes/go/basic/types/</link>
+      <link>https://sofiafoladori.github.io/notes/go/basic/types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/basic/types/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/basic/types/</guid>
       <description>Strings str := &amp;#34;Hello&amp;#34; Multiline string
 str := `Multiline string` Numbers Typical types
 num := 3 // int num := 3. // float64 num := 3 + 4i // complex128 num := byte(&amp;#39;a&amp;#39;) // byte (alias for uint8) Other Types
@@ -166,47 +166,47 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays //
     
     <item>
       <title>Flow Control</title>
-      <link>https://hugo-toha.github.io/notes/go/basic/flow-control/</link>
+      <link>https://sofiafoladori.github.io/notes/go/basic/flow-control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/basic/flow-control/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/basic/flow-control/</guid>
       <description>Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) Switch switch day { case &amp;#34;sunday&amp;#34;: // cases don&amp;#39;t &amp;#34;fall through&amp;#34; by default! fallthrough case &amp;#34;saturday&amp;#34;: rest() default: work() } Loop for count := 0; count &amp;lt;= 10; count++ { fmt.Println(&amp;#34;My counter is at&amp;#34;, count) } entry := []string{&amp;#34;Jack&amp;#34;,&amp;#34;John&amp;#34;,&amp;#34;Jones&amp;#34;} for i, val := range entry { fmt.</description>
     </item>
     
     <item>
       <title>ফাইল ম্যানিপুলেশন</title>
-      <link>https://hugo-toha.github.io/notes/go/advanced/files/</link>
+      <link>https://sofiafoladori.github.io/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/advanced/files/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/advanced/files/</guid>
       <description> Condition if day == &amp;#34;sunday&amp;#34; || day == &amp;#34;saturday&amp;#34; { rest() } else if day == &amp;#34;monday&amp;#34; &amp;amp;&amp;amp; isTired() { groan() } else { work() } if _, err := doThing(); err != nil { fmt.Println(&amp;#34;Uh oh&amp;#34;) </description>
     </item>
     
     <item>
       <title>ব্যাশ ভেরিয়েবল</title>
-      <link>https://hugo-toha.github.io/notes/bash/basic/</link>
+      <link>https://sofiafoladori.github.io/notes/bash/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/bash/basic/</guid>
+      <guid>https://sofiafoladori.github.io/notes/bash/basic/</guid>
       <description> Variable NAME=&amp;#34;John&amp;#34; echo $NAME echo &amp;#34;$NAME&amp;#34; echo &amp;#34;${NAME} Condition if [[ -z &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is empty&amp;#34; elif [[ -n &amp;#34;$string&amp;#34; ]]; then echo &amp;#34;String is not empty&amp;#34; fi </description>
     </item>
     
     <item>
       <title>Go এর নোট সমূহ</title>
-      <link>https://hugo-toha.github.io/notes/go/</link>
+      <link>https://sofiafoladori.github.io/notes/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/go/</guid>
+      <guid>https://sofiafoladori.github.io/notes/go/</guid>
       <description>Go Notes </description>
     </item>
     
     
     <item>
       <title>ব্যাশের নোট সমূহ</title>
-      <link>https://hugo-toha.github.io/notes/bash/</link>
+      <link>https://sofiafoladori.github.io/notes/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-toha.github.io/notes/bash/</guid>
+      <guid>https://sofiafoladori.github.io/notes/bash/</guid>
       <description>Bash Notes </description>
     </item>
     
