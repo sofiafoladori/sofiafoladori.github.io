@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Posts</title>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+
+<link rel="stylesheet" href="/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="/css/layouts/main.css"/>
+<link rel="stylesheet" href="/css/navigators/navbar.css"/>
+<link rel="stylesheet" href="/css/plyr.css"/>
+<link rel="stylesheet" href="/css/flag-icon.min.css"/>
+
+
+<link rel="stylesheet" href="/google-fonts/Mulish/mulish.css"/>
+
+
+<link rel="stylesheet" href="/fontawesome/css/all.min.css"/>
+
+
+
+<link rel="stylesheet" href="/css/colortheme/colortheme.css"/>
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+  
+
+  <link rel="icon" type="image/png" href="/images/site/android-chrome-512x512_hu5df3f067091e696f493d472466ac7db9_24372_42x0_resize_box_3.png" />
+
+<meta property="og:title" content="Posts" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://hugo-toha.github.io/posts/" />
+
+
+
+    
+    
+    <link rel="stylesheet" href="/css/layouts/list.css">
+    <link rel="stylesheet" href="/css/navigators/sidebar.css">
+    
+    <link rel="stylesheet" href="/css/style.css"/>
+
+
+
+    
+
+    
+
+
+
+
+</head>
+
+  <body data-spy="scroll" data-target="#TableOfContents" data-offset="80">
+    <div class="container-fluid bg-dimmed wrapper">
+      
+      
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+  
+  
+    
+  
+  
+
+
+<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
+  <div class="container">
+      <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/">
+      
+        <img src="/images/site/android-chrome-512x512_hu5df3f067091e696f493d472466ac7db9_24372_42x0_resize_box_3.png" alt="Logo">
+      Data Science Portfolio</a>
+    <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
+      <ul class="navbar-nav ml-auto">
+      
+      
+        <li class="nav-item dropdown">
+
+<div id="theme-initialization" style="display: none;"
+  default-theme="system"></div>
+<a class="nav-link dropdown-toggle"  href="#" id="themeSelector" role="button"
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <img id="navbar-theme-icon-svg" src="/icons/moon-svgrepo-com.svg" width=20>
+</a>
+<div class="dropdown-menu dropdown-menu-icons-only" aria-labelledby="themeSelector">
+  <a class="dropdown-item nav-link" href="#" onclick="enableLightTheme()">
+    <img class="menu-icon-center" src="/icons/sun-svgrepo-com.svg" width=20>
+  </a>
+  <a class="dropdown-item nav-link" href="#" onclick="enableDarkTheme()">
+    <img class="menu-icon-center" src="/icons/moon-svgrepo-com.svg" width=20>
+  </a>
+  <a class="dropdown-item nav-link" href="#" onclick="useSystemTheme()">
+    <img class="menu-icon-center" src="/icons/computer-svgrepo-com.svg" width=20>
+  </a>
+</div>
+</li>
+      
+      </ul>
+    </div>
+  </div>
+  
+  
+    <img src="/images/site/android-chrome-512x512_hu5df3f067091e696f493d472466ac7db9_24372_42x0_resize_box_3.png" class="d-none" id="main-logo" alt="Logo">
+  
+  
+    <img src="/images/site/android-chrome-512x512_hu5df3f067091e696f493d472466ac7db9_24372_42x0_resize_box_3.png" class="d-none" id="inverted-logo" alt="Inverted Logo">
+  
+</nav>
+
+
+
+      
+      
+  
+  
+
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <form class="mx-auto" method="get" action="/search">
+          <input type="text" name="keyword" value="" placeholder="Search" data-search="" id="search-box" />
+        </form>
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/covid-regression/" title="COVID-19 pandemic in Brazil Regression and PCA">COVID-19 pandemic in Brazil Regression and PCA</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/bioinformatics/" title="Bioinformatic analysis of the wheat rhizosphere microbiome">Bioinformatic analysis of the wheat rhizosphere microbiome</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/menstrual-cycle/" title="The menstrual cycle">The menstrual cycle</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/democratization/" title="Scientific production on the democratization of science a comparison between Web of Science and SciELO">Scientific production on the democratization of science a comparison between Web of Science and SciELO</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/covid-infographic/" title="Understanding COVID-19 in Brazil">Understanding COVID-19 in Brazil</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/science-technology/" title="How are the science and technology journals authorships distributed?">How are the science and technology journals authorships distributed?</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/brumadinho/" title="Flooded Area of Brumadinho (Brazil)">Flooded Area of Brumadinho (Brazil)</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/microfibers/" title="Microfibers in clothes">Microfibers in clothes</a></li>
+  
+
+
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      
+      
+      
+        
+          <div class="post-card">
+  <a href="/posts/bioinformatics/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/bioinformatics/wheat.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Bioinformatic analysis of the wheat rhizosphere microbiome</h5>
+        <p class="card-text post-summary">The health status of the soil is greatly dependent on the microorganism biodiversity due to the several ecosystem functions and soil processes they participate in. The interaction between soil microorganisms and roots is characterized as rhizosphere. Several factors affect the rhizosphere, but even with microbial community change the functions and processes may be maintained due to functional redundancy. Functional traits are morpho-physiophenological characteristics that indirectly impact fitness and a trait-based approach may facilitate predictions regarding the implications of the ecosystem and microbial processes.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">January 8, 2022</span>
+        <a
+        href="/posts/bioinformatics/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/covid-regression/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/covid-regression/covidback.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">COVID-19 pandemic in Brazil Regression and PCA</h5>
+        <p class="card-text post-summary">This project seeks to understand the COVID-19 pandemic in Brazil. For this, we will do a regression analysis and a PCA to understand the impact of socioeconomic factors on the mortality due to SARS-CoV-2 in the different Brazilian states.
+Objective Understand the relationship between socioeconomic factors and mortality caused by the virus SARS-CoV-2 Define which variables have a bigger impact on mortality Highlight important aspects where public policy should focus Cluster and PCA analysis that shows the different variables and the differences between the Brazilian states Linear regression and obtaining the significant variables in explaining mortality Workflow Data Socioeconomic data - obtained from IBGE IDHM data - obtained from PNUD Brazil COVID-19 deaths from the begging of the pandemic in Brazil until the 31/Dec/2020 - obtained from the national website https://covid.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">January 8, 2022</span>
+        <a
+        href="/posts/covid-regression/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/menstrual-cycle/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/menstrual-cycle/mens3.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">The menstrual cycle</h5>
+        <p class="card-text post-summary">Understanding the menstrual cycle is fundamental in comprehending changes in hormones, the menstrual phase, and the ovulation and fertile period. In addition, it is important to understand the differences between the uterus and the ovaries, and what function each has.
+Objective Organize the information about the menstrual cycle regarding the uterus and ovary phase
+Workflow The information regarding the menstrual cycle was systemized in PowerPoint to produce a simple infographic</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">December 13, 2021</span>
+        <a
+        href="/posts/menstrual-cycle/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/democratization/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/democratization/citizen1.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Scientific production on the democratization of science a comparison between Web of Science and SciELO</h5>
+        <p class="card-text post-summary">Scientific publications on the subject of “democratization of science” were examined, showing the temporal and thematic patterns in two databases. Scientific publications, in all areas of knowledge, are concentrated in developed countries, which also hold economic power, the most prestigious universities, and the most widely distributed scientific journals. That translates to databases as well. In this project, we examine the Web of Science database, international and mostly in English, and SciELO, an Ibero-American database, where publications in Spanish and Portuguese are mainly concentrated.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">October 2, 2021</span>
+        <a
+        href="/posts/democratization/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/science-technology/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/science-technology/world.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">How are the science and technology journals authorships distributed?</h5>
+        <p class="card-text post-summary">Scientific publications are concentrated in developed countries, that have the economic power, the most prestigious universities, and the most diffused scientific journals. The investigation agendas are set up by the central countries, such as the United States and some European countries. Consequently, once these countries define the research topics, these are adopted by satellite groups. In this context, we find Latin America and their academic production
+Objective If we consider the most prestigious journals in Science and technology, from which country are the authors?</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">June 1, 2020</span>
+        <a
+        href="/posts/science-technology/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/covid-infographic/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/covid-infographic/covidback.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Understanding COVID-19 in Brazil</h5>
+        <p class="card-text post-summary">The COVID-19 pandemic has reached all portions of the world, and countries have taken different measures to respond to the threat presented by the virus. The propagation of the virus is related to several issues, including population density, measures taken, number of doctors, and ICU beds.
+Objective This project tried to visualize the COVID-19 cases in Brazil. Specifically, it compared the distribution of COVID-19 cases and mortality, the population density, the number of doctors and ICU beds in the public health care system (SUS), and the restriction measurements taken at the beginning of the pandemic in each state.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">June 1, 2020</span>
+        <a
+        href="/posts/covid-infographic/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/brumadinho/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/brumadinho/flood.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Flooded Area of Brumadinho (Brazil)</h5>
+        <p class="card-text post-summary">A map was done to compare the original flooded area of Brumadinho (Brazil) in 2018 due to the dam and the increase in the flooded extension after the breakage of the barrier in 2019, creating a giant environmental impact.
+Workflow Output References ArcGIS
+USGS satalite images
+Landsat 8 (from 09.12.2018 and 04.22.2019)
+Open Street Map</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">April 6, 2020</span>
+        <a
+        href="/posts/brumadinho/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+        
+          <div class="post-card">
+  <a href="/posts/microfibers/" class="post-card-link">
+    <div class="card">
+      <div class="card-head">
+        <img class="card-img-top" src='/posts/microfibers/plastic.jpg' alt="Hero Image">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">Microfibers in clothes</h5>
+        <p class="card-text post-summary">Clothes production is big, and the use of synthetic fibers like polyester, acrylic, spandex, and nylon is increasing. These fibers, specifically small pieces in microscale eg. Microfibers, can be released during washing cycles. This process allows the fibers to be transported into oceans, rivers, and lakes, as they cannot be easily filtered. Once in the water, they enter the food chain and consequently come into our plates when we consume fish and seafood.</p>
+      </div>
+      <div class="card-footer">
+        <span class="float-left">August 1, 2019</span>
+        <a
+        href="/posts/microfibers/"
+        class="float-right btn btn-outline-info btn-sm"
+        >Read</a
+        >
+      </div>
+    </div>
+  </a>
+</div>
+
+        
+      
+    </div>
+    <div class="paginator">
+      
+    </div>
+  </div>
+</section>
+
+
+      
+       
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+    
+  
+  
+
+  
+  
+  
+
+  <footer id="footer" class="container-fluid text-center align-content-center footer pb-2">
+    <div class="container pt-5">
+      <div class="row text-left">
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Navigation</h5>
+          
+          <ul>
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#about">About</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#skills">Professional Skills</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#education">Education</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#experiences">Work Experience</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#projects">Projects</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#publications">Publications</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://hugo-toha.github.io#recent-posts">Posts</a>
+                </li>
+              
+              
+              
+            
+              
+            
+          </ul>
+          
+        </div>
+        
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Contact me:</h5>
+          <ul>
+            
+              
+                <li><a href=mailto:sofiafoladori@gmail..com target="_blank" rel="noopener">
+                  <span><i class="fas fa-envelope"></i></span> <span>sofiafoladori@gmail..com</span>
+                </a></li>
+              
+            
+              
+                <li><a href=https://github.com/sofiafoladori target="_blank" rel="noopener">
+                  <span><i class="fab fa-github"></i></span> <span>sofiafoladori</span>
+                </a></li>
+              
+            
+              
+                <li><a href=https://www.linkedin.com/in/sofiafoladori target="_blank" rel="noopener">
+                  <span><i class="fab fa-linkedin"></i></span> <span>Sofia Foladori Invernizzi</span>
+                </a></li>
+              
+            
+          </ul>
+        </div>
+        
+        
+        
+      </div>
+    </div>
+    
+    
+    <hr />
+    <div class="container">
+      <div class="row text-left">
+        <div class="col-md-4">
+          <a id="theme" href="https://github.com/hossainemruz/toha" target="_blank" rel="noopener">
+            <img src="/images/theme-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_32x0_resize_box_3.png" alt="Toha Theme Logo">
+            Toha
+          </a>
+        </div>
+        <div class="col-md-4 text-center">© 2020 Copyright.</div>
+        <div class="col-md-4 text-right">
+          <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Powered by
+          <img
+            src="/images/hugo-logo.svg"
+            alt="Hugo Logo"
+            height="18"
+          />
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </footer>
+
+
+    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/js/popper.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/js/navbar.js"></script>
+<script type="text/javascript" src="/js/plyr.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+
+<script type="text/javascript" src="/js/darkreader.js"></script>
+<script type="text/javascript" src="/js/darkmode-darkreader.js"></script>
+
+
+
+    
+    
+    <script src="/js/list.js"></script>
+
+
+    
+</body>
+</html>

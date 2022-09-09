@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPC on Data Science Portfolio</title>
+    <link>https://hugo-toha.github.io/tags/hpc/</link>
+    <description>Recent content in HPC on Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/hpc/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Bioinformatic analysis of the wheat rhizosphere microbiome</title>
+      <link>https://hugo-toha.github.io/posts/bioinformatics/</link>
+      <pubDate>Sat, 08 Jan 2022 08:06:25 +0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/bioinformatics/</guid>
+      <description>The health status of the soil is greatly dependent on the microorganism biodiversity due to the several ecosystem functions and soil processes they participate in. The interaction between soil microorganisms and roots is characterized as rhizosphere. Several factors affect the rhizosphere, but even with microbial community change the functions and processes may be maintained due to functional redundancy. Functional traits are morpho-physiophenological characteristics that indirectly impact fitness and a trait-based approach may facilitate predictions regarding the implications of the ecosystem and microbial processes.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
